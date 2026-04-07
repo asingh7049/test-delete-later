@@ -2,12 +2,7 @@ import java.util.*;
 
 public class Wordle {
     private static final String[] WORDS = {
-        "AUDIO", "ABOUT", "ABOVE", "ABUSE", "ACHED", "ACTOR", "ACUTE",
-        "ADMIT", "ADOPT", "ADULT", "AFTER", "AGAIN", "AGENT", "AGREE", "AHEAD",
-        "ALARM", "ALBUM", "ALERT", "ALIEN", "ALIGN", "ALIKE", "ALIVE", "ALLOW",
-        "ANGEL", "ANGER", "ANGLE", "ANGRY", "APART", "APPLE", "APPLY", "ARENA",
-        "ARGUE", "ARISE", "ARRAY", "ARROW", "ASIDE", "ASSET", "AUDIO", "AUDIT",
-        "AVOID", "AWAKE", "AWARD", "AWARE", "BADLY", "BAKER", "BASIC", "BEACH",
+         "BADLY", "BAKER", "BASIC", "BEACH",
         "BEGAN", "BEGIN", "BEING", "BELOW", "BENCH", "BILLY", "BIRTH", "BLACK",
         "BLADE", "BLAME", "BLANK", "BLAZE", "BLEAK", "BLEND", "BLIND", "BLOCK",
         "BLOOD", "BLOOM", "BLOWN", "BLUES", "BOARD", "BOAST", "BOBBY", "BOGEY",
